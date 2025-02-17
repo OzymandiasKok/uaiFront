@@ -1,0 +1,18 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar a pasta de cache do npm
+npm-debug.log*
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar arquivos de build
+dist/
+build/
+
+# Ignorar arquivos de IDEs, como o VS Code
+.vscode/
